@@ -34,7 +34,7 @@
     "qrcodejs2": "0.0.2",
     "screenfull": "^3.3.3",
     "script-loader": "^0.7.2",
-    "tinymce": "^4.8.5",
+    "tinymce": "^4.9.11",
     "v-viewer": "^1.2.1",
     "vue": "^2.5.17",
     "vue-amap": "^0.5.9",
@@ -59,7 +59,7 @@
     "script-loader": "^0.7.2",
     "shelljs": "0.8.2",
     "style-loader": "^0.23.0",
-    "tinymce": "^4.8.5",
+    "tinymce": "^4.9.11",
     "uglifyjs-webpack-plugin": "^2.1.2",
     "url-loader": "^1.1.1",
     "vue-template-compiler": "^2.5.17"
